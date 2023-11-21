@@ -308,7 +308,7 @@ header .container-buttons ul{
 } */
  
 @media (max-width: 390px) {
-    .container-buttons,.btn-inicio .menu{
+    .container-buttons,.btn-inicio ,.menu {
       display: none;
         visibility:hidden;
         
